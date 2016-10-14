@@ -23,5 +23,6 @@
 ## Miscellaneous
 
 - [Aisu](https://github.com/kirbyfan64/aisu) - A bundle manager.
+- [Love2D](https://github.com/rokf/love2D) - Löve autocompletion and documentation.
 - [Howl Proj](https://github.com/kirbyfan64/howl-proj) - Extended project system.
 - [Todos](https://github.com/rokf/todos) - TODO navigation.
