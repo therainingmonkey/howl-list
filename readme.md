@@ -24,3 +24,4 @@
 
 - [Aisu](https://github.com/kirbyfan64/aisu) - A bundle manager.
 - [Howl Proj](https://github.com/kirbyfan64/howl-proj) - Extended project system.
+- [Todos](https://github.com/rokf/todos) - TODO navigation.
