@@ -13,6 +13,7 @@
 
 - [AutoClang](https://github.com/kirbyfan64/howl-autoclang) - Clang-based C/C++ autocompletion.
 - [Elm](https://github.com/rokf/elm) - Elm syntax highlighting, autocompletion, compiling and documentation.
+- [Felix](https://github.com/felix-lang/felix/tree/master/src/misc/howl) - Felix syntax highlighting.
 - [NASM](https://github.com/kirbyfan64/howl-nasm) - NASM-style assembly bundle.
 - [Rockspec](https://github.com/rokf/rockspec) - Rockspec bundle.
 - [Stanza](https://github.com/stanza-tools/howl-stanza-bundle) - L.B. Stanza syntax highlighting.
