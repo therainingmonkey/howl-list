@@ -12,6 +12,8 @@
 ## Programming Languages
 
 - [AutoClang](https://github.com/kirbyfan64/howl-autoclang) - Clang-based C/C++ autocompletion.
+- [Chicken Scheme](https://github.com/rokf/howl-chicken) - Chicken Scheme syntax highlighting and documentation.
+- [Citrine](https://github.com/MadcapJake/howl-citrine-bundle) - Citrine syntax highlighting.
 - [Elm](https://github.com/rokf/elm) - Elm syntax highlighting, autocompletion, compiling and documentation.
 - [Felix](https://github.com/felix-lang/felix/tree/master/src/misc/howl) - Felix syntax highlighting.
 - [Fish](https://github.com/abaez/howl-fish) - Fish syntax highlighting.
