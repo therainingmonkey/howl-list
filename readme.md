@@ -1,5 +1,5 @@
-# ![The Howl Editor](https://raw.githubusercontent.com/its-suun/awesome-howl/master/header.png)
-[![CC0](https://img.shields.io/badge/license-CC0-759F78.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# ![The Howl Editor](https://raw.githubusercontent.com/its-suun/howl-list/master/header.png)
+[![CC0](https://img.shields.io/badge/license-CC0-759F78.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 > Howl is a general purpose editor that aims to be both lightweight and fully customizable. It is built on top of the very fast LuaJIT runtime, and can be extended in either Lua or Moonscript. It has a minimalistic UI driven mainly by the keyboard. — [howl.io](http://howl.io/)
 
