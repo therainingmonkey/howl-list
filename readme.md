@@ -28,6 +28,7 @@
 - [Love2D](https://github.com/rokf/love2D) - Löve autocompletion and documentation.
 - [Howl Proj](https://github.com/kirbyfan64/howl-proj) - Extended project system.
 - [Todos](https://github.com/rokf/todos) - TODO navigation.
+- [Howl-web](https://github.com/therainingmonkey/howl-web) - Simple web browser for howl.
 
 ## Community
 
